@@ -1,0 +1,4 @@
+/home/nahass/Desktop/gtest/build/CMakeFiles/test_lib.dir
+/home/nahass/Desktop/gtest/build/CMakeFiles/test_main.dir
+/home/nahass/Desktop/gtest/build/CMakeFiles/edit_cache.dir
+/home/nahass/Desktop/gtest/build/CMakeFiles/rebuild_cache.dir

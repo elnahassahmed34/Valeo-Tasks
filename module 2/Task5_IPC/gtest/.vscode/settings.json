@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gtest.h": "c",
+        "test.h": "c",
+        "gtest-death-test.h": "c",
+        "gtest-printers.h": "c"
+    }
+}

@@ -1,0 +1,8 @@
+[Unit]
+Description=Automated Backup Service
+Wants=backup.timer
+
+[Service]
+User=root
+ExecStart=/usr/local/bin/backup.sh
+

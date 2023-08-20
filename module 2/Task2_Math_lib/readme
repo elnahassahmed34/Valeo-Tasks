@@ -1,0 +1,11 @@
+The command used to build the static library
+ar rcs libclass.a class.o
+    
+The command to be used to link the static library to the test app
+gcc main.c -L. -lclass -lm -o myapp
+
+The command used to build the shared library
+gcc -shared -o libmath.so math_functions.o
+
+The command used to link the shared library to the test app
+gcc -L./ -Wall -o test main.c -lmath -lm
