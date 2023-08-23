@@ -1,0 +1,3 @@
+0000001 | 2023-08-23, 13:55:06.289333 [trace] - Enter main
+0000002 | 2023-08-23, 13:55:06.289722 [trace] - IPC through pipes done
+0000003 | 2023-08-23, 13:55:19.396064 [trace] - IPC through shared memory done
