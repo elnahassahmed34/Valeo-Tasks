@@ -1,0 +1,4 @@
+/home/nahass/Desktop/Cmake/build/CMakeFiles/program.dir
+/home/nahass/Desktop/Cmake/build/CMakeFiles/WriteInFile.dir
+/home/nahass/Desktop/Cmake/build/CMakeFiles/edit_cache.dir
+/home/nahass/Desktop/Cmake/build/CMakeFiles/rebuild_cache.dir
