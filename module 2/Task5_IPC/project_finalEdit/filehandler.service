@@ -1,0 +1,14 @@
+[Unit]
+Description=Filehandler Daemon
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/nahass/Desktop/Valeo_Tasks/module2/Task5_IPC/project/build/file_handler/fh
+WorkingDirectory=/home/nahass/Desktop/Valeo_Tasks/module2/Task5_IPC/project/build/file_handler
+Restart=always
+User=nahass
+
+[Install]
+WantedBy=default.target
+
